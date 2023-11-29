@@ -1,3 +1,4 @@
+// Write a C program for sum of two binary numbers.
 #include<stdio.h>
 int main()
 {

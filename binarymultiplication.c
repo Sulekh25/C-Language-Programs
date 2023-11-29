@@ -1,3 +1,4 @@
+// Write a C program for multiplication of two Binary numbers.
 #include <stdio.h>
 int binaryproduct(int, int);
 int main()

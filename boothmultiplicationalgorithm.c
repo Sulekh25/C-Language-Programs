@@ -1,3 +1,4 @@
+// Write aC program to implement Booth's Algorithm Multiplication.
 #include <stdio.h>
 #include <math.h>
 
